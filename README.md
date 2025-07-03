@@ -73,6 +73,7 @@ MongoDB Atlas account (for database)
 ```
 </li>
 <li> Set Environment Variables (.env):
+create file .env and add there:
 ```
   TOKEN=`YOUR JWT TOKEN`
   MONGO_DB_URL=`Your MongoDB Atlas Url`
